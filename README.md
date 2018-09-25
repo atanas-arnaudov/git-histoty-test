@@ -6,6 +6,6 @@ First commit pushed to remote with it's original contents
 
 Second commit pushed to remote with it's original contents
 
-Changing file.
+Changing file 1.
 
 
