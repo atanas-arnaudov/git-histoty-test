@@ -8,4 +8,5 @@ Second commit pushed to remote with it's original contents
 
 Changing file 1.
 
+Another line of code
 
