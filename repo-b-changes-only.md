@@ -6,3 +6,6 @@ Modification in master
 
 Non conflicting modification in master while a PR is open in a feature branch
 
+Non conflicting modification in master after a feature branch merged
+
+
