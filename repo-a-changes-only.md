@@ -5,3 +5,7 @@ Change done after openning of a PR
 
 feature_a_2 commit
 
+Commit in a separate branch. An ammend will follow.
+This line is ammended
+
+
